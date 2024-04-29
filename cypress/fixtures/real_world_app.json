@@ -1,0 +1,21 @@
+{
+    "username": "Katharina_Bernier",
+    "invalidUsername": "x",
+    "newUsername": "MiAm",
+    "firstname": "Katharina",
+    "newFirstname": "Mi",
+    "lastname": "Bernier",
+    "newLastname": "Am",
+    "password": "s3cret",
+    "newUserPpassword": "1234",
+    "otherPassword": 2234,
+    "lessPassword": 12,
+    "bankName": "AmeriaBank",
+    "lessBankName": "HSBC",
+    "bankNameDeleted": "AmeriaBank (Deleted)",
+    "routingNumber": 123456789,
+    "lesscardNumber": 1234567,
+    "moreCardNumber": 123456789023444,
+    "accountNumber": 987654321,
+    "lessAccountNumber": 9876
+}
