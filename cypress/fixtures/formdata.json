@@ -1,0 +1,16 @@
+{
+    "name": "Milana",
+    "email":"amelyan.milana+test1@gmail.com",
+    "password": "Test123!1",
+    "accept": true,
+    "gender": "Female",
+    "phonenumber": 232323,
+    "dateOfBirth": "02/04/88",
+    "address":"Chechov street 24, app. 3, 4",
+    "cardNumber": "123456789",
+    "nameOnCard": "Amelyan Milana",
+    "country": "Armenia",
+    "zipCode": 1234,
+    "expData": "23/2025",
+    "cvv": 123 
+}
