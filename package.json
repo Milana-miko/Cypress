@@ -19,8 +19,5 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^13.5.0"
-  },
-  "dependencies": {
-    "neat-csv": "^7.0.0"
   }
 }

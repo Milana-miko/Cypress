@@ -1,5 +1,3 @@
-import neatCsv from "neat-csv";
-
 describe("JWT token", () => {
 
     let data;
@@ -32,10 +30,13 @@ describe("JWT token", () => {
         cy.wait(2000);
         cy.get("button").contains("Click To Download Order Details in CSV").click();
 
-        cy.readFile(Cypress.config("fileServerFolfer") + "/cypress/downloads/order-invoice_amelyan.milana.csv")
+        cy.readFile(Cypress.config("fileServerFolder") + "/cypress/downloads/order-invoice_amelyan.milana.csv")
         .then((text) => {
             console.log(text);
         });
+
+    
+        
 
     });
 });
